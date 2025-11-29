@@ -2,17 +2,17 @@
 <h3 align="center">🚀 AI & Full-Stack Developer | Programmer | ML enthusiast | B.Tech AI & DS </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chiraggksh&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <a href="https://github.com/Chiraggksh?tab=repositories" target="_blank">
+    <img alt="Top Languages" 
+      src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Chiraggksh&layout=compact&hide=html,css" />
+  </a>
+  
+  <a href="https://github.com/Chiraggksh" target="_blank">
+    <img alt="GitHub stats" 
+      src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Chiraggksh&show_icons=true&theme=radical" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Chiraggksh?tab=repositories" target="_blank">
-    <img alt="GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiraggksh&layout=compact&hide=html,css" />
-  </a>
-  <a href="https://github.com/Chiraggksh" target="_blank">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Chiraggksh&show_icons=true&theme=radical" />
-  </a>
-</p>
 
 ---
 
