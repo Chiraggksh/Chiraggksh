@@ -1,110 +1,128 @@
 <h1 align="center">🌟 Hi, I'm <strong>Chirag Kaushik</strong>!</h1>
-<h3 align="center">🚀 AI & Full-Stack Developer | B.Tech AI & DS | Hackathon Winner | Researcher</h3>
+<h3 align="center">🚀 AI & Full-Stack Developer | Programmer | ML enthusiast | B.Tech AI & DS </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Chiraggksh&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Chiraggksh?tab=repositories" target="_blank">
+    <img alt="GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiraggksh&layout=compact&hide=html,css" />
+  </a>
+  <a href="https://github.com/Chiraggksh" target="_blank">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Chiraggksh&show_icons=true&theme=radical" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-I'm a passionate **AI & Full-Stack Developer** who loves building scalable projects, solving real-world problems, and exploring the intersection of **Machine Learning + Web Development + Computer Vision**.
+I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real-world solutions by blending **Machine Learning, Web Development, and Programming knowledge**.
 
-✨ My core strengths:  
-- Turning ideas into **real working products**  
-- Teaching technical concepts in a **simple & intuitive** way  
-- Staying curious and learning something new **every day**  
+✨ Core strengths:  
+- Transforming ideas into **real working products**  
+- Explaining technical concepts in a **simple & intuitive** manner  
+- Always curious and **learning something new every day**  
 
-🔹 **3rd-year B.Tech (AI & DS)** student @ VIPS-TC  
-🔹 Building projects with **MERN, Python, Flask, and ML**  
-🔹 Hackathon Winner among **5000+ participants**  
+🔹 3rd-year B.Tech (AI & DS) student @ VIPS-TC, IPU  
+🔹 Tech stack includes **MERN, Python, Flask, ML, TailWind, SQL**  
+🔹 Proud Hackathon Winner among **5000+ participants**  
 🔹 Technical Core Member, Career Development Centre  
+
+---
+
+## 💻 What I’m Working On  
+  
+- Enhancing **DSA Skills** in Java  
+- Exploring **advanced MERN stack** projects and open source contributions
+- Actively looking for **SDE Intern Roles**  
 
 ---
 
 ## 🔧 Tech Stack & Tools  
 
-### 💻 Programming  
+### Programming Languages  
 `JavaScript` • `Python` • `Java` • `SQL`
 
-### 🎨 Frontend  
-`HTML5` • `CSS3` • `React.js` • `Redux` • `Tailwind CSS` • `Bootstrap`
+### Frontend  
+`React.js` • `Redux` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap`
 
-### ⚙️ Backend  
+### Backend  
 `Node.js` • `Express.js` • `Flask`
 
-### 🗄️ Databases  
+### Databases  
 `MongoDB` • `MySQL`
 
-### 🛠️ Tools & Tech  
+### Tools & Technologies  
 `Git` • `GitHub` • `Postman` • `Mongoose` • `REST APIs` • `OpenCV`
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🔹 **SASHAKT – AI-Powered Women Safety Platform**  
-🧭 ML-based danger-zone prediction using crime datasets  
-🗺️ Interactive map alerts + Flask backend  
+### 🔹 SASHAKT – AI-Powered Women Safety Platform  
+🧭 ML-based danger-zone prediction using real crime data  
+🗺️ Interactive map alerts with Flask-powered backend  
+[Project Link](https://github.com/Chiraggksh/women_safety)
 
-### 🔹 **Spotify Clone – Full-Stack Music App**  
+### 🔹 Spotify Clone – Full-Stack Music App  
 🎵 Authentication, playlists, song CRUD APIs  
-⚛️ Built using React, Node.js, Express & MongoDB  
+⚛️ Built with React, Node.js, Express & MongoDB  
+[Project Link](https://github.com/Chiraggksh/dbms_project)
 
-### 🔹 **Watchdog AI – Real-time Surveillance System**  
+### 🔹 Watchdog AI – Real-time Surveillance System  
 🎥 YOLOv8-based license plate detection (95% accuracy)  
-⚡ Real-time alerting system + Flask interface  
+⚡ Real-time alert system with Flask interface  
+[Project Link](https://github.com/Chiraggksh/AI-Powered-License-Plate-Recognition-System) 
 
 ---
 
 ## 📚 Research Publications  
 
-📄 **Watchdog AI: An AI Surveillance System** — *Submitted, 2025*  
-📄 **Comparative Analysis on Duplicate Detection Models** — *Accepted, 2025*  
+- 📄 **Comparative Analysis on Duplicate Detection Models** — *Accepted, 2025*  
+- 📄 **Watchdog AI: An AI Surveillance System** — *Submitted, 2025*  
+
 
 ---
 
 ## 🧩 DSA & Problem Solving  
 
-- 🧠 150+ problems solved on **LeetCode + GFG**  
+- 🧠 Solved 150+ problems on **LeetCode + GFG**  
 - Strong in: Arrays, Linked Lists, Recursion, Backtracking, DP, Graphs  
-- 🔗 **LeetCode:** https://leetcode.com/u/chiraggg/  
+- 🔗 [LeetCode Profile](https://leetcode.com/u/chiraggg/)  
 
 ---
 
 ## 💼 Experience  
 
-### **Technical Core Member — Career Development Centre, VIPS-TC**  
+### Technical Core Member — Career Development Centre, VIPS-TC  
 📅 Jan 2025 – Present  
-- Built & optimized placement portal features using MERN  
-- Conducted hands-on workshops for **500+ students**
+- Developed & optimized placement portal features with MERN  
+- Conducted hands-on workshops for **500+ students**  
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements and Certifications
 
-🥇 **1st Place — Math-e-thon 2025 (400+ teams)**  
-🥈 **Top 3 — Smart India Hackathon 2025 (Internal Winner)**  
-🥉 **4th Position — Smart Delhi Ideathon 2025**  
-🎖️ **Finalist — Clash of Codes**  
-📜 **Advanced Deep Learning (Winter School)**  
-
----
-
-## 🔗 Connect With Me  
-
-📧 **Email:** kaushikchirag187@gmail.com  
-🔗 **LinkedIn:** *add link here*  
-💻 **GitHub:** https://github.com/YOUR_USERNAME  
-👨‍💻 **LeetCode:** https://leetcode.com/u/chiraggg/  
-📍 **Location:** Delhi, India  
+- 🥇 1st Place — Math-e-thon 2025 (400+ teams)  
+- 🥈 Top 3 — Smart India Hackathon 2025 (Internal Winner)  
+- 🥉 4th Position — Smart Delhi Ideathon 2025  
+- 🎖️ Finalist — Clash of Codes  
+- 📜 Advanced Deep Learning (Winter School)  
 
 ---
 
-<h3 align="center">✨ “I build. I learn. I grow.” ✨</h3>
+## 🧑‍💻 Connect With Me  
 
-<p align="center">
-If you like my work, feel free to ⭐ my repositories or connect with me!
-</p>
+📧 **Email:** [kaushikchirag187@gmail.com](mailto:kaushikchirag187@gmail.com)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/chirag-kaushik-2744982bb/]  
+💻 **GitHub:** [https://github.com/Chiraggksh](https://github.com/Chiraggksh)  
+👨‍💻 **LeetCode:** [https://leetcode.com/u/chiraggg/](https://leetcode.com/u/chiraggg/)  
+📍 Delhi, India  
 
+---
+
+<h3 align="center">✨ “I build. I learn. I grow ;^)” ✨</h3>
+
+<p align="center">If you like my work, feel free to ⭐ my repositories or connect with me!</p>
