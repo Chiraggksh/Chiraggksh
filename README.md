@@ -90,7 +90,7 @@ I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real
 
 - 🧠 Solved 150+ problems on **LeetCode + GFG**  
 - Strong in: Arrays, Linked Lists, Recursion, Backtracking, DP, Graphs  
-- 🔗 [LeetCode Profile](https://leetcode.com/u/chiraggg/)  
+- 🔗 [LeetCode Profile](https://leetcode.com/u/chiraggg_/)  
 
 ---
 
