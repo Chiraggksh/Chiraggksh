@@ -1,17 +1,7 @@
 <h1 align="center">🌟 Hi, I'm <strong>Chirag Kaushik</strong>!</h1>
 <h3 align="center">🚀 AI & Full-Stack Developer | Programmer | ML enthusiast | B.Tech AI & DS </h3>
 
-<p align="center">
-  <a href="https://github.com/Chiraggksh?tab=repositories" target="_blank">
-    <img alt="Top Languages" 
-      src="https://github-readme-stats-st7h.vercel.app/api/top-langs/?username=Chiraggksh&layout=compact&hide=html,css&count_private=true" />
-  </a>
-  
-  <a href="https://github.com/Chiraggksh" target="_blank">
-    <img alt="GitHub stats" 
-      src="https://github-readme-stats-st7h.vercel.app/api?username=Chiraggksh&show_icons=true&count_private=true&theme=radical" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/Chiraggksh?tab=repositories" target="_blank"> <img alt="Top Languages" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Chiraggksh&layout=compact&hide=html,css" /> </a> <a href="https://github.com/Chiraggksh" target="_blank"> <img alt="GitHub stats" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Chiraggksh&show_icons=true&theme=radical" /> </a> </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Chiraggksh&theme=radical&hide_border=false" />
