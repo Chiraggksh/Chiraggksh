@@ -7,10 +7,6 @@
   <img src="https://streak-stats.demolab.com?user=Chiraggksh&theme=radical&hide_border=false" />
 </p>
 
-<!-- LeetCode Stats -->
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/chiraggg_?theme=dark&border=1&radius=20" />
-</p>
 
 ---
 
@@ -29,6 +25,15 @@ I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real
 🔹 Technical Core Member, Career Development Centre  
 
 ---
+
+## 📊 Contribution Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiraggksh&theme=react-dark" />
+</p>
+
+---
+
+
 
 ## 💻 What I’m Working On  
   
@@ -84,6 +89,12 @@ I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real
 ---
 
 ## 🧩 DSA & Problem Solving  
+
+<!-- LeetCode Stats -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/chiraggg_?theme=dark&border=1&radius=20" />
+</p>
+
 
 - 🧠 Solved 150+ problems on **LeetCode + GFG**  
 - Strong in: Arrays, Linked Lists, Recursion, Backtracking, DP, Graphs  
