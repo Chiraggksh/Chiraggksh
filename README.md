@@ -42,12 +42,12 @@ I focus on **Machine Learning, MERN Stack Development, System Design & Problem S
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chiraggksh&show_icons=true&count_private=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiraggksh&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chiraggksh&show_icons=true&count_private=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chiraggksh&layout=compact&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiraggksh&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Chiraggksh&theme=radical" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ I focus on **Machine Learning, MERN Stack Development, System Design & Problem S
 
 ## 🧠 LeetCode Stats  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/chiraggg?theme=dark&border=1&radius=20" />
+  <img src="https://leetcard.jacoblin.cool/chiraggg_?theme=dark&border=1&radius=20" />
 </p>
 
 ---
@@ -74,13 +74,13 @@ I focus on **Machine Learning, MERN Stack Development, System Design & Problem S
 🔗 **Repo:** https://github.com/Chiraggksh/women_safety  
 
 ### 🔹 **Spotify Clone – Full-Stack Music App**  
-🎵 Auth, playlists, dynamic song APIs  
+🎵 Authentication, playlists, dynamic song APIs  
 ⚛️ React + Node.js + Express + MongoDB  
 🔗 **Repo:** https://github.com/Chiraggksh/dbms_project  
 
 ### 🔹 **Watchdog AI – Real-time Surveillance System**  
 🎥 YOLOv8-based license plate detection  
-⚡ Real-time alerts via Flask interface  
+⚡ Real-time alert system via Flask interface  
 🔗 **Repo:** https://github.com/Chiraggksh/AI-Powered-License-Plate-Recognition-System  
 
 ---
@@ -97,7 +97,7 @@ I focus on **Machine Learning, MERN Stack Development, System Design & Problem S
 - Solved **150+ DSA problems** on LeetCode + GFG  
 - Strong in:  
   `Arrays` • `Linked Lists` • `Recursion` • `Backtracking` • `DP` • `Graphs`  
-🔗 **LeetCode:** https://leetcode.com/u/chiraggg/
+🔗 **LeetCode:** https://leetcode.com/u/chiraggg_/
 
 ---
 
@@ -115,7 +115,7 @@ I focus on **Machine Learning, MERN Stack Development, System Design & Problem S
 
 ### 🔹 Technical Core Member — Career Development Centre  
 📅 Jan 2025 – Present  
-- Built & optimized MERN-based placement portal features  
+- Developed & optimized MERN-based placement portal features  
 - Delivered hands-on workshops for **500+ students**  
 
 ---
@@ -125,7 +125,7 @@ I focus on **Machine Learning, MERN Stack Development, System Design & Problem S
 📧 **Email:** kaushikchirag187@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/chirag-kaushik-2744982bb/  
 💻 **GitHub:** https://github.com/Chiraggksh  
-👨‍💻 **LeetCode:** https://leetcode.com/u/chiraggg/  
+👨‍💻 **LeetCode:** https://leetcode.com/u/chiraggg_/  
 📍 Delhi, India  
 
 ---
