@@ -131,7 +131,7 @@ I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real
 📧 **Email:** [kaushikchirag187@gmail.com](mailto:kaushikchirag187@gmail.com)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/chirag-kaushik-2744982bb/](https://www.linkedin.com/in/chirag-kaushik-2744982bb/)  
 💻 **GitHub:** [https://github.com/Chiraggksh](https://github.com/Chiraggksh)  
-👨‍💻 **LeetCode:** [https://leetcode.com/u/chiraggksh/](https://leetcode.com/u/chiraggg_/)  
+👨‍💻 **LeetCode:** [https://leetcode.com/u/chiraggksh/](https://leetcode.com/u/chiraggksh/)  
 🐦 **X (Twitter):** [https://x.com/chiraggksh](https://x.com/chiraggksh)  
 📍 Delhi, India  
 
