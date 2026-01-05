@@ -92,13 +92,13 @@ I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real
 
 <!-- LeetCode Stats -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/chiraggg_?theme=dark&border=1&radius=20" />
+  <img src="https://leetcard.jacoblin.cool/chiraggksh?theme=dark&border=1&radius=20" />
 </p>
 
 
 - 🧠 Solved 150+ problems on **LeetCode + GFG**  
 - Strong in: Arrays, Linked Lists, Recursion, Backtracking, DP, Graphs  
-- 🔗 [LeetCode Profile](https://leetcode.com/u/chiraggg_/)  
+- 🔗 [LeetCode Profile](https://leetcode.com/u/chirraggksh/)  
 
 ---
 
