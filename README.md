@@ -1,9 +1,6 @@
 <h1 align="center">🌟 Hi, I'm <strong>Chirag Kaushik</strong>!</h1>
 <h3 align="center">🚀 Full-Stack AI Developer | Programmer | B.Tech AI & DS</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chiraggksh&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
 
 
 
@@ -12,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiraggksh&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiraggksh&show_icons=true&theme=transparent" />
 </p>
 
 
@@ -108,11 +105,6 @@ I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real
   <img src="https://leetcard.jacoblin.cool/chiraggksh?theme=dark&border=1&radius=20" />
 </p>
 
-<p align="center">
-  <img src="https://leetcode-calendar.vercel.app/chiraggksh?theme=dark" />
-</p>
-
-
 
 - 🧠 Solved 150+ problems on **LeetCode + GFG**  
 - Strong in: Arrays, Linked Lists, Recursion, Backtracking, DP, Graphs  
@@ -144,12 +136,17 @@ I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real
 📧 **Email:** [kaushikchirag187@gmail.com](mailto:kaushikchirag187@gmail.com)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/chirag-kaushik-2744982bb/](https://www.linkedin.com/in/chirag-kaushik-2744982bb/)  
 💻 **GitHub:** [https://github.com/Chiraggksh](https://github.com/Chiraggksh)  
-👨‍💻 **LeetCode:** [https://leetcode.com/u/chiraggg_/](https://leetcode.com/u/chiraggg_/)  
+👨‍💻 **LeetCode:** [https://leetcode.com/u/chiraggksh/](https://leetcode.com/u/chiraggg_/)  
 🐦 **X (Twitter):** [https://x.com/chiraggksh](https://x.com/chiraggksh)  
 📍 Delhi, India  
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chiraggksh&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
 <h3 align="center">✨ “I build. I learn. I grow ;^)” ✨</h3>
 
 <p align="center">If you like my work, feel free to ⭐ my repositories or connect with me!</p>
+
