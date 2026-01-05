@@ -1,7 +1,20 @@
 <h1 align="center">🌟 Hi, I'm <strong>Chirag Kaushik</strong>!</h1>
-<h3 align="center">🚀 AI & Full-Stack Developer | Programmer | ML enthusiast | B.Tech AI & DS </h3>
+<h3 align="center">🚀 Full-Stack AI Developer | Programmer | B.Tech AI & DS</h3>
 
-<p align="center">  <a href="https://github.com/Chiraggksh" target="_blank"> <img alt="GitHub stats" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Chiraggksh&show_icons=true&theme=radical" /> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chiraggksh&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiraggksh&show_icons=true&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiraggksh&layout=compact&theme=radical" />
+</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Chiraggksh&theme=radical&hide_border=false" />
@@ -12,7 +25,7 @@
 
 ## 🧠 About Me  
 
-I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real-world solutions by blending **Machine Learning, Web Development, and Programming knowledge**.
+I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real-world solutions by blending **Programming knowledge**.
 
 ✨ Core strengths:  
 - Transforming ideas into **real working products**  
@@ -20,7 +33,7 @@ I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real
 - Always curious and **learning something new every day**  
 
 🔹 3rd-year B.Tech (AI & DS) student @ VIPS-TC, IPU  
-🔹 Tech stack includes **MERN, Python, Flask, ML, TailWind, SQL**  
+🔹 Tech stack includes **MERN, JAVA, Python, Flask, ML, TailWind, SQL**  
 🔹 Proud Hackathon Winner among **5000+ participants**  
 🔹 Technical Core Member, Career Development Centre  
 
@@ -95,10 +108,15 @@ I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real
   <img src="https://leetcard.jacoblin.cool/chiraggksh?theme=dark&border=1&radius=20" />
 </p>
 
+<p align="center">
+  <img src="https://leetcode-calendar.vercel.app/chiraggksh?theme=dark" />
+</p>
+
+
 
 - 🧠 Solved 150+ problems on **LeetCode + GFG**  
 - Strong in: Arrays, Linked Lists, Recursion, Backtracking, DP, Graphs  
-- 🔗 [LeetCode Profile](https://leetcode.com/u/chirraggksh/)  
+- 🔗 [LeetCode Profile](https://leetcode.com/u/chiraggksh/)  
 
 ---
 
@@ -124,9 +142,10 @@ I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real
 ## 🧑‍💻 Connect With Me  
 
 📧 **Email:** [kaushikchirag187@gmail.com](mailto:kaushikchirag187@gmail.com)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/chirag-kaushik-2744982bb/]  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/chirag-kaushik-2744982bb/](https://www.linkedin.com/in/chirag-kaushik-2744982bb/)  
 💻 **GitHub:** [https://github.com/Chiraggksh](https://github.com/Chiraggksh)  
 👨‍💻 **LeetCode:** [https://leetcode.com/u/chiraggg_/](https://leetcode.com/u/chiraggg_/)  
+🐦 **X (Twitter):** [https://x.com/chiraggksh](https://x.com/chiraggksh)  
 📍 Delhi, India  
 
 ---
