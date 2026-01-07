@@ -47,6 +47,12 @@ I'm a passionate **AI & Full-Stack Developer** who loves building scalable, real
 - Actively looking for **SDE Intern Roles**  
 
 ---
+<p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chiraggksh&theme=radical" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chiraggksh&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chiraggksh&theme=radical" />
+</p>
 
 ## 🔧 Tech Stack & Tools  
 
