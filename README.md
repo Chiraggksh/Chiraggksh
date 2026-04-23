@@ -201,9 +201,11 @@ Authentication, playlists & song CRUD APIs · End-to-end full-stack implementati
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=18&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=700&height=36&lines=%22The+secret+of+getting+ahead+is+getting+started.%22+—+Mark+Twain" alt="quote" />
+<p style="color:#A78BFA; font-size:16px; font-weight:500;">
+"The frog at the bottom of the well may not understand the sea but it knows the height of the sky"
+</p>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=1&pause=999999&color=888888&center=true&vCenter=true&repeat=false&width=600&height=26&lines=If+you+like+my+work%2C+feel+free+to+%E2%AD%90+my+repos+or+connect+with+me!" alt="footer note" />
 
