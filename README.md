@@ -1,22 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chirag%20Kaushik&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20AI%20Developer%20%7C%20B.Tech%20AI%20%26%20DS%20%40%20VIPS-TC&descAlignY=58&descSize=18" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=52&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Chirag+Kaushik" alt="Chirag Kaushik" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Developer+%F0%9F%9A%80;Hackathon+Winner+%F0%9F%8F%86;Building+Real+Solutions+with+AI+%2B+Web;Open+to+Internship+Opportunities+%F0%9F%91%8B)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=700&height=30&lines=AI+%26+Web+Developer+·+MERN+Stack+·+Full-Stack+Engineer" alt="subtitle" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-kaushik-2744982bb/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chiraggksh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chiraggksh/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chiraggksh)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikchirag187@gmail.com)
+![](https://img.shields.io/badge/🏆_Hackathon_Winner-2d2d3a?style=flat-square&labelColor=2d2d3a&color=2d2d3a)
+![](https://img.shields.io/badge/🌐_Open_Source_Contributor-2d2d3a?style=flat-square&labelColor=2d2d3a&color=2d2d3a)
+![](https://img.shields.io/badge/💼_Open_to_SDE_Intern_Roles-2d2d3a?style=flat-square&labelColor=2d2d3a&color=2d2d3a)
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d2d3a?style=flat-square&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/chirag-kaushik-2744982bb/)
+[![GitHub](https://img.shields.io/badge/GitHub-2d2d3a?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/Chiraggksh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2d2d3a?style=flat-square&logo=leetcode&logoColor=a78bfa)](https://leetcode.com/u/chiraggksh/)
+[![Twitter](https://img.shields.io/badge/X-2d2d3a?style=flat-square&logo=x&logoColor=a78bfa)](https://x.com/chiraggksh)
+[![Gmail](https://img.shields.io/badge/Gmail-2d2d3a?style=flat-square&logo=gmail&logoColor=a78bfa)](mailto:kaushikchirag187@gmail.com)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chiraggksh&label=Profile+Views&color=a78bfa&style=flat-square)
-![](https://img.shields.io/badge/📍_Delhi,_India-1a1a2e?style=flat-square)
-![](https://img.shields.io/badge/📞_+91_9250556184-1a1a2e?style=flat-square)
+![](https://img.shields.io/badge/📍_Delhi,_India-2d2d3a?style=flat-square)
+![](https://img.shields.io/badge/📞_+91_9250556184-2d2d3a?style=flat-square)
 
 </div>
 
@@ -44,9 +50,6 @@ superpower : Turning ideas into working products, end-to-end
 - Built and optimized full-stack features using **React.js, Node.js, Express, and MongoDB** for a production web platform
 - Developed **15+ REST APIs** with JWT authentication, improving performance by **30%**
 
-### 🎓 Technical Core Member — Career Development Centre, VIPS-TC *(Jan 2025 – Present)*
-- Developed & optimized placement portal features with **MERN stack**
-- Conducted hands-on workshops for **500+ students** on full-stack development
 
 ---
 
@@ -164,9 +167,7 @@ superpower : Turning ideas into working products, end-to-end
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
-
-*✨ "I build. I learn. I grow ;^)" ✨*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=500&height=30&lines=✨+%22I+build.+I+learn.+I+grow+%3B%5E%29%22+✨" alt="quote" />
 
 **If you like my work, feel free to ⭐ my repos or connect with me!**
 
