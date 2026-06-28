@@ -15,7 +15,7 @@
 
 ---
 
-## <About Me />
+## <About Me/>
 
 ```yaml
 name       : Chirag Kaushik
