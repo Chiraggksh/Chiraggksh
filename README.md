@@ -15,7 +15,7 @@
 
 ---
 
-## About Me
+## <> About Me
 
 ```yaml
 name       : Chirag Kaushik
@@ -45,7 +45,7 @@ Beyond the backend, I think about **architecture, scalability, and clean data fl
 
 ---
 
-## Experience
+## <> Experience
 
 ### Full Stack Developer Intern — ByoSync &nbsp;`Feb 2026 – Present · Hybrid`
 
@@ -55,7 +55,7 @@ Beyond the backend, I think about **architecture, scalability, and clean data fl
 
 ---
 
-## Featured Projects
+## <> Featured Projects
 
 <br/>
 
@@ -104,7 +104,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## Tech Stack
+## <> Tech Stack
 
 **Languages**
 
@@ -139,7 +139,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## GitHub Stats
+## <> GitHub Stats
 
 <div align="center">
 
@@ -154,7 +154,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## DSA & Problem Solving
+## <> DSA & Problem Solving
 
 <div align="center">
 
@@ -169,14 +169,14 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## Research Publications
+## <> Research Publications
 
 - 📄 **Watchdog AI: An AI-Powered Surveillance System** — *YOLOv8 + Flask · Real-time Computer Vision · Submitted 2025*
 - 📄 **Comparative Analysis on Duplicate Detection Models** — *Deep Learning Benchmarking · Accepted 2025*
 
 ---
 
-## Contribution Summary
+## <> Contribution Summary
 
 <div align="center">
 
@@ -188,7 +188,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## Achievements & Certifications
+## <> Achievements & Certifications
 
 | 🏅 | Title | Details |
 |----|-------|---------|
