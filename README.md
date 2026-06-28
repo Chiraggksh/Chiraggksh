@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 name       : Chirag Kaushik
@@ -28,9 +28,9 @@ status     : 🟢 Open to SDE Intern Roles  |  AI · Full-Stack · MERN
 
 <br/>
 
-I'm a **Software Developer** focused on building full-stack web applications — currently interning at **ByoSync**, where I work on real-world product development with an emphasis on the backend.
+I'm a **Software Developer** with production experience building full-stack web applications. I completed a **Full Stack Developer Internship at ByoSync** (Feb–Apr 2026), where I shipped real product features — designing REST APIs, integrating ML model endpoints, and leading a full frontend revamp that cut load times by 40%.
 
-My work involves designing **REST APIs**, handling **authentication flows**, managing **databases**, and thinking through how backend decisions shape the user experience. This internship has pushed me beyond just writing code — into thinking about **architecture, scalability, and clean data flow**.
+Beyond the backend, I think about **architecture, scalability, and clean data flow** — and how those decisions shape the end experience. My work spans AI-powered tools, civic platforms, and production-grade systems.
 
 > *I enjoy understanding how systems are structured, not just making things work.*
 
@@ -38,14 +38,14 @@ My work involves designing **REST APIs**, handling **authentication flows**, man
 
 | | |
 |---|---|
-| 🏆 **Hackathon Winner** | 1st Place Math-e-thon · Top 3 SIH 2025 among 5000+ |
-| 🌐 **Open Source** | Actively contributing & building in public |
-| 📄 **Research** | 2× publications in AI/CV — 2025 |
-| 💼 **Currently** | Full Stack Dev Intern @ ByoSync · Feb 2026 – Present |
+| **Hackathon Winner** | 1st Place Math-e-thon · Top 3 SIH 2025 among 5000+ |
+| **Open Source** | Actively contributing & building in public |
+| **Research** | 2× publications in AI/CV — 2025 |
+| **Currently** | Full Stack Dev Intern @ ByoSync · Feb 2026 – Present |
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Full Stack Developer Intern — ByoSync &nbsp;`Feb 2026 – Present · Hybrid`
 
@@ -55,11 +55,27 @@ My work involves designing **REST APIs**, handling **authentication flows**, man
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <br/>
 
-**🛡️ SASHAKT — AI Women Safety Platform**
+** Interview-Forge — AI Interview Coach**
+
+AI-powered interview prep using Gemini 3.0 Flash — generates role-specific questions, scores responses, identifies skill gaps, and produces a personalised learning roadmap with Zod-validated structured outputs
+
+`React.js` `Node.js` `Gemini API` `Zod` `Puppeteer` &nbsp;&nbsp; [`View Repo →`](https://github.com/Chiraggksh)
+
+<br/>
+
+** Project Camp — Project Management Backend**
+
+Production-grade REST API with multi-user workspaces, RBAC (admin/member/viewer), task assignment, file uploads with MIME validation, and compound-indexed MongoDB schemas for sub-100ms response times
+
+`Node.js` `Express` `MongoDB` `JWT` `RBAC` &nbsp;&nbsp; [`View Repo →`](https://github.com/Chiraggksh)
+
+<br/>
+
+** SASHAKT — AI Women Safety Platform**
 
 ML-based danger-zone prediction using real crime data · Flask backend · Interactive map alerts
 
@@ -67,23 +83,16 @@ ML-based danger-zone prediction using real crime data · Flask backend · Intera
 
 <br/>
 
-**📹 Watchdog AI — Real-time Surveillance**
+** Watchdog AI — Real-time Surveillance**
 
-YOLOv8-based license plate detection at **95% accuracy** · Real-time alert system with Flask interface
+YOLOv8-based license plate detection at **95% accuracy** · Real-time alert system with Flask interface · Published research 2025
 
 `YOLOv8` `Computer Vision` `Flask` `Python` &nbsp;&nbsp; [`View Repo →`](https://github.com/Chiraggksh/AI-Powered-License-Plate-Recognition-System)
 
 <br/>
 
-**🏕️ Project Camp — Backend API**
 
-Scalable REST API with JWT auth, RBAC, task management & file uploads — production-grade architecture
-
-`Node.js` `Express` `MongoDB` `JWT` `RBAC` &nbsp;&nbsp; [`View Repo →`](https://github.com/Chiraggksh)
-
-<br/>
-
-**🌿 Pragati Path — AI Civic Platform**
+** Pragati Path — AI Civic Platform**
 
 AI civic issue reporting system using NLP, CV & predictive analytics to streamline government reporting
 
@@ -91,17 +100,11 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 <br/>
 
-**🎵 Spotify Clone — Full Stack Music App**
 
-Authentication, playlists & song CRUD APIs · End-to-end full-stack implementation
-
-`React` `Node.js` `Express` `MongoDB` &nbsp;&nbsp; [`View Repo →`](https://github.com/Chiraggksh/dbms_project)
-
-<br/>
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -136,7 +139,7 @@ Authentication, playlists & song CRUD APIs · End-to-end full-stack implementati
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -151,7 +154,7 @@ Authentication, playlists & song CRUD APIs · End-to-end full-stack implementati
 
 ---
 
-## 🧩 DSA & Problem Solving
+## DSA & Problem Solving
 
 <div align="center">
 
@@ -161,19 +164,19 @@ Authentication, playlists & song CRUD APIs · End-to-end full-stack implementati
 
 <br/>
 
-- 🧠 Solved **200+ problems** on LeetCode + GFG
+- Solved **200+ problems** on LeetCode + GFG
 - 🔗 [View LeetCode Profile →](https://leetcode.com/u/chiraggksh/)
 
 ---
 
-## 📚 Research Publications
+## Research Publications
 
 - 📄 **Watchdog AI: An AI-Powered Surveillance System** — *YOLOv8 + Flask · Real-time Computer Vision · Submitted 2025*
 - 📄 **Comparative Analysis on Duplicate Detection Models** — *Deep Learning Benchmarking · Accepted 2025*
 
 ---
 
-## 📈 Contribution Summary
+## Contribution Summary
 
 <div align="center">
 
@@ -185,7 +188,7 @@ Authentication, playlists & song CRUD APIs · End-to-end full-stack implementati
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
 | 🏅 | Title | Details |
 |----|-------|---------|
