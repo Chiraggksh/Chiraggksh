@@ -15,7 +15,7 @@
 
 ---
 
-## <> About Me
+## <About Me />
 
 ```yaml
 name       : Chirag Kaushik
@@ -45,7 +45,7 @@ Beyond the backend, I think about **architecture, scalability, and clean data fl
 
 ---
 
-## <> Experience
+## <Experience />
 
 ### Full Stack Developer Intern — ByoSync &nbsp;`Feb 2026 – Present · Hybrid`
 
@@ -55,11 +55,11 @@ Beyond the backend, I think about **architecture, scalability, and clean data fl
 
 ---
 
-## <> Featured Projects
+## <Featured Projects />
 
 <br/>
 
-**Interview-Forge — AI Interview Coach**
+**1. Interview-Forge — AI Interview Coach**
 
 AI-powered interview prep using Gemini 3.0 Flash — generates role-specific questions, scores responses, identifies skill gaps, and produces a personalised learning roadmap with Zod-validated structured outputs
 
@@ -67,7 +67,7 @@ AI-powered interview prep using Gemini 3.0 Flash — generates role-specific que
 
 <br/>
 
-**Project Camp — Project Management Backend**
+**2. Project Camp — Project Management Backend**
 
 Production-grade REST API with multi-user workspaces, RBAC (admin/member/viewer), task assignment, file uploads with MIME validation, and compound-indexed MongoDB schemas for sub-100ms response times
 
@@ -75,7 +75,7 @@ Production-grade REST API with multi-user workspaces, RBAC (admin/member/viewer)
 
 <br/>
 
-**SASHAKT — AI Women Safety Platform**
+**3. SASHAKT — AI Women Safety Platform**
 
 ML-based danger-zone prediction using real crime data · Flask backend · Interactive map alerts
 
@@ -83,7 +83,7 @@ ML-based danger-zone prediction using real crime data · Flask backend · Intera
 
 <br/>
 
-**Watchdog AI — Real-time Surveillance**
+**4. Watchdog AI — Real-time Surveillance**
 
 YOLOv8-based license plate detection at **95% accuracy** · Real-time alert system with Flask interface · Published research 2025
 
@@ -92,7 +92,7 @@ YOLOv8-based license plate detection at **95% accuracy** · Real-time alert syst
 <br/>
 
 
-**Pragati Path — AI Civic Platform**
+**5. Pragati Path — AI Civic Platform**
 
 AI civic issue reporting system using NLP, CV & predictive analytics to streamline government reporting
 
@@ -104,7 +104,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## <> Tech Stack
+## <Tech Stack />
 
 **Languages**
 
@@ -139,7 +139,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## <> GitHub Stats
+## <GitHub Stats />
 
 <div align="center">
 
@@ -154,7 +154,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## <> DSA & Problem Solving
+## <DSA & Problem Solving />
 
 <div align="center">
 
@@ -169,14 +169,14 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## <> Research Publications
+## <Research Publications />
 
 - 📄 **Watchdog AI: An AI-Powered Surveillance System** — *YOLOv8 + Flask · Real-time Computer Vision · Submitted 2025*
 - 📄 **Comparative Analysis on Duplicate Detection Models** — *Deep Learning Benchmarking · Accepted 2025*
 
 ---
 
-## <> Contribution Summary
+## <Contribution Summary />
 
 <div align="center">
 
@@ -188,7 +188,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## <> Achievements & Certifications
+## <Achievements & Certifications />
 
 | 🏅 | Title | Details |
 |----|-------|---------|
