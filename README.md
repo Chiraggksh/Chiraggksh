@@ -15,7 +15,7 @@
 
 ---
 
-## ▸ About Me
+## 👤 Who am I?
 
 ```yaml
 name       : Chirag Kaushik
@@ -45,7 +45,7 @@ Beyond the backend, I think about **architecture, scalability, and clean data fl
 
 ---
 
-## ▸ Experience
+## 💼 Experience
 
 ### Full Stack Developer Intern — ByoSync &nbsp;`Feb 2026 – Apr 2026 · Hybrid`
 
@@ -56,11 +56,11 @@ Beyond the backend, I think about **architecture, scalability, and clean data fl
 
 ---
 
-## ▸ Featured Projects
+## ⚙️ What I've Built
 
 <br/>
 
-**Interview-Forge — AI Interview Coach** &nbsp; [`↗`](https://github.com/Chiraggksh)
+**Interview-Forge — AI Interview Coach** &nbsp; [`↗`](https://github.com/Chiraggksh/Interview-Forge)
 
 AI-powered interview prep using Gemini 3.0 Flash — generates role-specific questions, scores responses, identifies skill gaps, and produces a personalised learning roadmap with Zod-validated structured outputs
 
@@ -68,7 +68,7 @@ AI-powered interview prep using Gemini 3.0 Flash — generates role-specific que
 
 <br/>
 
-**Project Camp — Project Management Backend** &nbsp; [`↗`](https://github.com/Chiraggksh)
+**Project Camp — Project Management Backend** &nbsp; [`↗`](https://github.com/Chiraggksh/Project-Camp-Backend)
 
 Production-grade REST API with multi-user workspaces, RBAC (admin/member/viewer), task assignment, file uploads with MIME validation, and compound-indexed MongoDB schemas for sub-100ms response times
 
@@ -76,11 +76,11 @@ Production-grade REST API with multi-user workspaces, RBAC (admin/member/viewer)
 
 <br/>
 
-**SASHAKT — AI Women Safety Platform** &nbsp; [`↗`](https://github.com/Chiraggksh/women_safety)
+**bone-Afide — AI Medical RAG Chatbot** &nbsp; [`↗`](https://github.com/Chiraggksh/bone-Afide-RAG)
 
-ML-based danger-zone prediction using real crime data · Flask backend · Interactive map alerts
+AI-powered medical chatbot for Arthritis, Osteoporosis, and Rheumatoid Arthritis using FAISS vector search, Sentence Transformers, Cross-Encoder reranking, and Gemini LLM with Streamlit UI
 
-`Python` `Flask` `Machine Learning` `OpenCV`
+`Python` `FAISS` `Sentence Transformers` `Gemini` `Streamlit`
 
 <br/>
 
@@ -92,7 +92,7 @@ YOLOv8-based license plate detection at **95% accuracy** · Real-time alert syst
 
 <br/>
 
-**Pragati Path — AI Civic Platform** &nbsp; [`↗`](https://github.com/Chiraggksh)
+**Pragati Path — AI Civic Platform** &nbsp; [`↗`](https://github.com/Chiraggksh/Pragati-Path)
 
 AI civic issue reporting system using NLP, CV & predictive analytics to streamline government reporting
 
@@ -102,7 +102,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## ▸ Tech Stack
+## 🔧 Tech Stack
 
 **Languages**
 
@@ -137,7 +137,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## ▸ GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -152,7 +152,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## ▸ DSA & Problem Solving
+## 🧩 DSA & Problem Solving
 
 <div align="center">
 
@@ -167,14 +167,14 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## ▸ Research Publications
+## 📄 Research Publications
 
 - **Watchdog AI: An AI-Powered Surveillance System** — *YOLOv8 + Flask · Real-time Computer Vision · Submitted 2025*
 - **Comparative Analysis on Duplicate Detection Models** — *Deep Learning Benchmarking · Accepted 2025*
 
 ---
 
-## ▸ Contribution Summary
+## 📈 Contribution Summary
 
 <div align="center">
 
@@ -186,7 +186,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## ▸ Achievements & Certifications
+## 🏆 Achievements & Certifications
 
 | | Title | Details |
 |----|-------|---------|
