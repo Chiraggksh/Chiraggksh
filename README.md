@@ -15,7 +15,7 @@
 
 ---
 
-## <About Me/>
+## 01. About Me
 
 ```yaml
 name       : Chirag Kaushik
@@ -38,73 +38,71 @@ Beyond the backend, I think about **architecture, scalability, and clean data fl
 
 | | |
 |---|---|
-| **Hackathon Winner** | 1st Place Math-e-thon · Top 3 SIH 2025 among 5000+ |
-| **Open Source** | Actively contributing & building in public |
-| **Research** | 2× publications in AI/CV — 2025 |
-| **Currently** | Full Stack Dev Intern @ ByoSync · Feb 2026 – Present |
+| ◆ **Hackathon Winner** | 1st Place Math-e-thon · Top 3 SIH 2025 among 5000+ |
+| ◆ **Open Source** | Actively contributing & building in public |
+| ◆ **Research** | 2× publications in AI/CV — 2025 |
+| ◆ **Experience** | Full Stack Dev Intern @ ByoSync · Feb–Apr 2026 |
 
 ---
 
-## <Experience />
+## 02. Experience
 
-### Full Stack Developer Intern — ByoSync &nbsp;`Feb 2026 – Present · Hybrid`
+### Full Stack Developer Intern — ByoSync &nbsp;`Feb 2026 – Apr 2026 · Hybrid`
 
 - Built and optimized full-stack features using **React.js, Node.js, Express, and MongoDB** for a production web platform
 - Developed **15+ REST APIs** with JWT authentication, improving performance by **30%**
-- Gained hands-on exposure to **architecture decisions**, **authentication flows**, and **scalable data management** in a live product environment
+- Integrated ML model endpoints into the backend pipeline, enabling real-time inference features for 500+ active users
+- Led a full site revamp — rebuilt frontend with React.js and Tailwind CSS, cutting page load time by **40%**
 
 ---
 
-## <Featured Projects />
+## 03. Featured Projects
 
 <br/>
 
-**1. Interview-Forge — AI Interview Coach**
+**Interview-Forge — AI Interview Coach** &nbsp; [`↗`](https://github.com/Chiraggksh)
 
 AI-powered interview prep using Gemini 3.0 Flash — generates role-specific questions, scores responses, identifies skill gaps, and produces a personalised learning roadmap with Zod-validated structured outputs
 
-`React.js` `Node.js` `Gemini API` `Zod` `Puppeteer` &nbsp;&nbsp; [`View Repo →`](https://github.com/Chiraggksh)
+`React.js` `Node.js` `Gemini API` `Zod` `Puppeteer`
 
 <br/>
 
-**2. Project Camp — Project Management Backend**
+**Project Camp — Project Management Backend** &nbsp; [`↗`](https://github.com/Chiraggksh)
 
 Production-grade REST API with multi-user workspaces, RBAC (admin/member/viewer), task assignment, file uploads with MIME validation, and compound-indexed MongoDB schemas for sub-100ms response times
 
-`Node.js` `Express` `MongoDB` `JWT` `RBAC` &nbsp;&nbsp; [`View Repo →`](https://github.com/Chiraggksh)
+`Node.js` `Express` `MongoDB` `JWT` `RBAC`
 
 <br/>
 
-**3. SASHAKT — AI Women Safety Platform**
+**SASHAKT — AI Women Safety Platform** &nbsp; [`↗`](https://github.com/Chiraggksh/women_safety)
 
 ML-based danger-zone prediction using real crime data · Flask backend · Interactive map alerts
 
-`Python` `Flask` `Machine Learning` `OpenCV` &nbsp;&nbsp; [`View Repo →`](https://github.com/Chiraggksh/women_safety)
+`Python` `Flask` `Machine Learning` `OpenCV`
 
 <br/>
 
-**4. Watchdog AI — Real-time Surveillance**
+**Watchdog AI — Real-time Surveillance** &nbsp; [`↗`](https://github.com/Chiraggksh/AI-Powered-License-Plate-Recognition-System)
 
 YOLOv8-based license plate detection at **95% accuracy** · Real-time alert system with Flask interface · Published research 2025
 
-`YOLOv8` `Computer Vision` `Flask` `Python` &nbsp;&nbsp; [`View Repo →`](https://github.com/Chiraggksh/AI-Powered-License-Plate-Recognition-System)
+`YOLOv8` `Computer Vision` `Flask` `Python`
 
 <br/>
 
-
-**5. Pragati Path — AI Civic Platform**
+**Pragati Path — AI Civic Platform** &nbsp; [`↗`](https://github.com/Chiraggksh)
 
 AI civic issue reporting system using NLP, CV & predictive analytics to streamline government reporting
 
-`NLP` `Computer Vision` `Python` `ML` &nbsp;&nbsp; [`View Repo →`](https://github.com/Chiraggksh)
+`NLP` `Computer Vision` `Python` `ML`
 
 <br/>
 
-
-
 ---
 
-## <Tech Stack />
+## 04. Tech Stack
 
 **Languages**
 
@@ -139,7 +137,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## <GitHub Stats />
+## 05. GitHub Stats
 
 <div align="center">
 
@@ -154,7 +152,7 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## <DSA & Problem Solving />
+## 06. DSA & Problem Solving
 
 <div align="center">
 
@@ -164,19 +162,19 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 <br/>
 
-- Solved **200+ problems** on LeetCode + GFG
-- 🔗 [View LeetCode Profile →](https://leetcode.com/u/chiraggksh/)
+- Solved **300+ problems** on LeetCode + GFG
+- [View LeetCode Profile →](https://leetcode.com/u/chiraggksh/)
 
 ---
 
-## <Research Publications />
+## 07. Research Publications
 
-- 📄 **Watchdog AI: An AI-Powered Surveillance System** — *YOLOv8 + Flask · Real-time Computer Vision · Submitted 2025*
-- 📄 **Comparative Analysis on Duplicate Detection Models** — *Deep Learning Benchmarking · Accepted 2025*
+- **Watchdog AI: An AI-Powered Surveillance System** — *YOLOv8 + Flask · Real-time Computer Vision · Submitted 2025*
+- **Comparative Analysis on Duplicate Detection Models** — *Deep Learning Benchmarking · Accepted 2025*
 
 ---
 
-## <Contribution Summary />
+## 08. Contribution Summary
 
 <div align="center">
 
@@ -188,15 +186,15 @@ AI civic issue reporting system using NLP, CV & predictive analytics to streamli
 
 ---
 
-## <Achievements & Certifications />
+## 09. Achievements & Certifications
 
-| 🏅 | Title | Details |
+| | Title | Details |
 |----|-------|---------|
-| 🥇 | **1st Place — Math-e-thon 2025** | Among 400+ competing teams |
-| 🥈 | **Top 3 — Smart India Hackathon 2025** | Internal Winner · 5000+ participants |
-| 🥉 | **4th Position — Smart Delhi Ideathon 2025** | Civic tech innovation track |
-| 🎖️ | **Finalist — Clash of Codes** | Programming competition |
-| 📜 | **Advanced Deep Learning** | Winter School Certification |
+| ◆ | **1st Place — Math-e-thon 2025** | Among 400+ competing teams |
+| ◆ | **Top 3 — Smart India Hackathon 2025** | Internal Winner · 5000+ participants |
+| ◆ | **4th Position — Smart Delhi Ideathon 2025** | Civic tech innovation track |
+| ◆ | **Finalist — Clash of Codes** | Programming competition |
+| ◆ | **Advanced Deep Learning** | Winter School Certification |
 
 ---
 
